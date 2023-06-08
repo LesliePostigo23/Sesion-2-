@@ -1,0 +1,17 @@
+<html>
+<head>
+       <title>Mi blog de hobbies</title>
+</head>
+<body>
+        <h1>Bienvenido a mi blog </h1>
+<p>Este blog esta dedicado a compartir mis hobbies.</p>
+<h2>Hobbies preferidos</h2>
+<ol>
+<li>Jugar voley</li>
+<li>Cocinar</li>
+<li>Dibujar</li>
+<li>Bailar</li>
+<li>Escuchar</li>
+</ol>
+</html>
+</head>
